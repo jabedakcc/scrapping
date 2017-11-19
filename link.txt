@@ -1,0 +1,8 @@
+https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/assets/status/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/factom/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/verge/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/monero/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/litecoin/historical-data/?start=20130428&end=20170822
+https://coinmarketcap.com/currencies/siacoin/historical-data/?start=20130428&end=20170822
